@@ -8,13 +8,21 @@ The "TIC-TAC-TOE" web development project is an interactive and visually appeali
 Key Features:
 
 User-Friendly Interface: The project offers an intuitive and user-friendly interface, making it easy for players to understand and enjoy the game.
+
 Responsive Design: The game is designed to be responsive, ensuring a seamless experience on various devices, including desktops, tablets, and mobile phones.
+
 Two-Player Mode: Players can take turns to play against each other, just like the traditional game.
+
 Winning Logic: The game incorporates the winning logic of Tic-Tac-Toe, where a player wins by getting three of their marks in a row, column, or diagonal.
+
 Interactive Gameplay: It allows players to click on the grid to place their X or O, with real-time feedback on the game's progress.
+
 Game Over and Reset: When the game concludes with a win or a draw, it declares the winner and offers an option to reset for a new round.
+
 Styling and Animation: CSS is used for styling, and animations are added to enhance the gaming experience.
+
 Scalable and Customizable: Developers can easily customize and extend the project by modifying the HTML, CSS, and JavaScript files to suit their preferences.
+
 How to Play:
 
 Open the game in a web browser.
